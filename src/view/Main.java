@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {
 		
-		int nat=1234;
+		int nat=6;
 		int soma = recursaoNat(nat);
 		System.out.println(soma);
 		
